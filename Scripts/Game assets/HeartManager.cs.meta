@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e40258a1938172d45962652aa3ad4cfa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fullHeart: {fileID: 21300006, guid: 322c30a1796101a40849d66e104f1758, type: 3}
+  - halfFullHeart: {fileID: 21300010, guid: 322c30a1796101a40849d66e104f1758, type: 3}
+  - emptyHeart: {fileID: 21300014, guid: 322c30a1796101a40849d66e104f1758, type: 3}
+  - heartContainers: {instanceID: 0}
+  - playerCurrentHealth: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
